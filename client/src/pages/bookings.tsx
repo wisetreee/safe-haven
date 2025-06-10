@@ -1,4 +1,4 @@
-import { useState } from "react";
+
 import { useQuery, useMutation } from "@tanstack/react-query";
 import TabNavigation from "@/components/layout/TabNavigation";
 import { Calendar, MapPin, Clock, X } from "lucide-react";
@@ -19,7 +19,7 @@ export default function Bookings() {
 
   const cancelMutation = useMutation({
     mutationFn: async (bookingId: number) => {
-      return apiRequest('POST', `/api/bookings/${bookingId}/cancel`);
+      return apiRequest(`/api/bookings/${bookingId}/cancel`, 'POST');
     },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['/api/bookings'] });

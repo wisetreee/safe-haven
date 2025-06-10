@@ -1,0 +1,519 @@
+3530-d7ce12e14a0a7184.js:1 Replit version b99e0db6, pid2 version 0.0.1318
+_app-dfa222fa7fe89db5.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] LaunchDarkly client initialized
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+SafeHavenRussia:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+stallwart.build.js:1 stallwart: failed ping 1
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+ Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'battery'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'layout-animations'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'navigation-override'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'oversized-images'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'publickey-credentials'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'speaker-selection'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'unoptimized-images'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'unsized-media'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Unrecognized feature: 'pointer-lock'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-cca7815cbc16b11b.js:1
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-cca7815cbc16b11b.js:1
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//resources' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//staff/dashboard' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+stallwart.build.js:1 stallwart: failed ping 1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//booking-status' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//booking-status' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//resources' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//staff/dashboard' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=af03a880-c93f-4017-9dd6-c7d8b58d35d9:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+hook.js:608 onClick is deprecated, please use onPress
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 Measure loop restarted more than 5 times
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+measure @ _app-dfa222fa7fe89db5.js:26
+(анонимная) @ _app-dfa222fa7fe89db5.js:26
+r @ _app-dfa222fa7fe89db5.js:38
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+stallwart.build.js:1 stallwart: failed ping 1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=648c0daa-9e69-4191-8e5c-4d0c6eebd724:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=ca06d307-9118-4086-af62-41fae21b94df:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=dc38c1db-1a4a-4194-9560-e38c3fde8f1f:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//staff/dashboard' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//booking-status' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//staff/dashboard' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+hook.js:608 onClick is deprecated, please use onPress
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+hook.js:608 If you do not provide children, you must specify an aria-label for accessibility
+overrideMethod @ hook.js:608
+hook.js:608 If you do not provide children, you must specify an aria-label for accessibility
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+hook.js:608 onClick is deprecated, please use onPress
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+stallwart.build.js:1 stallwart: failed ping 1
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=945efb5d-69f1-455c-aa1d-045766dc34e5:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j101&tid=UA-25629695-1&cid=1621938500.1746806071&jid=70820439&gjid=1659952835&_gid=1550015934.1747548803&_u=SCCAgEAjQAAAAGgCIAD~&z=1701399907:1 
+            
+            
+           Failed to load resource: net::ERR_TIMED_OUT
+www.google-analytics.com/collect?v=1&_v=j101&aip=1&a=691661497&t=event&ni=0&_s=98&dl=https%3A%2F%2Freplit.com%2F%40arsenid2003%2FSafeHavenRussia&dp=%2F%40arsenid2003%2FSafeHavenRussia&ul=ru-ru&de=UTF-8&dt=replEnvironmentDesktop&sd=24-bit&sr=1920x1080&vp=1920x929&je=0&ec=All&ea=Workspace%20Typed&ev=0&_u=SCCAgEAjQAAAAGgCIAD~&jid=70820439&gjid=1659952835&cid=1621938500.1746806071&tid=UA-25629695-1&_gid=1550015934.1747548803&z=1106423109:1 
+            
+            
+           Failed to load resource: net::ERR_TIMED_OUT
+hook.js:608 [LaunchDarkly] Error on stream connection: {"isTrusted":true}, will continue retrying after 932 milliseconds.
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 1
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+stallwart.build.js:1 stallwart: failed ping 1
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+stallwart.build.js:1 stallwart: failed ping 1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+a.JZ.<computed> @ _app-dfa222fa7fe89db5.js:6
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+a.JZ.<computed> @ _app-dfa222fa7fe89db5.js:6
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+_app-dfa222fa7fe89db5.js:38 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//staff/dashboard' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+(анонимная) @ _app-dfa222fa7fe89db5.js:38
+a.JZ.<computed> @ _app-dfa222fa7fe89db5.js:6
+d @ main-837e4c8f143a6af6.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+lU @ framework-cca7815cbc16b11b.js:1
+t.useMemo @ framework-cca7815cbc16b11b.js:1
+(анонимная) @ _app-dfa222fa7fe89db5.js:6
+ld @ framework-cca7815cbc16b11b.js:1
+ou @ framework-cca7815cbc16b11b.js:1
+i @ framework-cca7815cbc16b11b.js:1
+uI @ framework-cca7815cbc16b11b.js:1
+uM @ framework-cca7815cbc16b11b.js:1
+uS @ framework-cca7815cbc16b11b.js:1
+C @ framework-cca7815cbc16b11b.js:1
+z @ framework-cca7815cbc16b11b.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+hook.js:608 Invalid href 'https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev//bookings' passed to next/router in page: '/replEnvironmentDesktop'. Repeated forward-slashes (//) or backslashes \ are not valid in the href.
+overrideMethod @ hook.js:608
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Closing stream connection
+logs.browser-intake-us5-datadoghq.com/api/v2/logs?ddsource=browser&ddtags=sdk_version%3A4.46.0%2Capi%3Afetch%2Cenv%3Aproduction%2Cservice%3Awebsite%2Cversion%3Ab99e0db6&dd-api-key=pub31a5047a3a4692afb84a423db984dc57&dd-evp-origin-version=4.46.0&dd-evp-origin=browser&dd-request-id=8e64e4dc-4b60-4aad-96ad-1b99afa6cc63:1 
+            
+            
+           Failed to load resource: net::ERR_CONNECTION_CLOSED
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/api/auth/current-user:1 
+            
+            
+           Failed to load resource: the server responded with a status of 401 (Unauthorized)
+_app-dfa222fa7fe89db5.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiIzOTcyMzAwMCIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImFyc2VuaWQyMDAzIiwicm9sZXMiOlsiaW50ZW50X3BlcnNvbmFsIl0sImVtYWlsIjoiYXJzZW5pZDIwMDNAZ21haWwuY29tIiwidGltZV9jcmVhdGVkIjoxNzM5NzE3MTA5NjIyLCJfbWV0YSI6eyJwcml2YXRlQXR0cmlidXRlcyI6WyJlbWFpbCJdfX0
+1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/api/auth/current-user:1 
+            
+            
+           Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    at a
+    at a
+    at https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=230c44a2:337:18
+    at div
+    at div
+    at div
+    at header
+    at Header (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/src/components/layout/Header.tsx:28:47)
+    at div
+    at Provider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-5AJU3CG7.js?v=230c44a2:38:15)
+    at TooltipProvider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=230c44a2:63:5)
+    at App
+    at QueryClientProvider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=230c44a2:2805:3)
+Mt.forEach.n.<computed> @ Console.js:61
+1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/api/auth/current-user:1 
+            
+            
+           Failed to load resource: the server responded with a status of 401 (Unauthorized)
+Console.js:61 Submitting booking request: Object
+1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/api/bookings:1 
+            
+            
+           Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+Console.js:61 Booking error: Error: Не удалось создать бронирование
+    at throwIfResNotOk (queryClient.ts:17:11)
+    at async apiRequest (queryClient.ts:33:3)
+Mt.forEach.n.<computed> @ Console.js:61
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+stallwart.build.js:1 stallwart: failed ping 1
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.

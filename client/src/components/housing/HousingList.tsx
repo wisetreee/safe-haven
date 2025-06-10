@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import HousingCard from "./HousingCard";
 import HousingDetailModal from "./HousingDetailModal";
-import BookingFormModal from "../booking/SimpleBookingForm";
+import BookingFormModal from "../booking/RefactoredBookingForm";
 import SuccessModal from "../booking/SuccessModal";
 import { Housing } from "@/lib/types";
 

@@ -1,0 +1,62 @@
+Console.js:61 Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    at a
+    at a
+    at https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/node_modules/.vite/deps/wouter.js?v=020a72d7:337:18
+    at div
+    at div
+    at div
+    at header
+    at Header (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/src/components/layout/Header.tsx?t=1747808503170:28:47)
+    at div
+    at Provider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/node_modules/.vite/deps/chunk-ZZIMQBQA.js?v=020a72d7:38:15)
+    at TooltipProvider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=020a72d7:63:5)
+    at App
+    at QueryClientProvider (https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/node_modules/.vite/deps/@tanstack_react-query.js?v=020a72d7:2805:3)
+Mt.forEach.n.<computed> @ Console.js:61
+printWarning @ chunk-7SSXMLWA.js?v=020a72d7:521
+error @ chunk-7SSXMLWA.js?v=020a72d7:505
+validateDOMNesting @ chunk-7SSXMLWA.js?v=020a72d7:8256
+createInstance @ chunk-7SSXMLWA.js?v=020a72d7:8328
+completeWork @ chunk-7SSXMLWA.js?v=020a72d7:16290
+completeUnitOfWork @ chunk-7SSXMLWA.js?v=020a72d7:19224
+performUnitOfWork @ chunk-7SSXMLWA.js?v=020a72d7:19206
+workLoopSync @ chunk-7SSXMLWA.js?v=020a72d7:19137
+renderRootSync @ chunk-7SSXMLWA.js?v=020a72d7:19116
+performConcurrentWorkOnRoot @ chunk-7SSXMLWA.js?v=020a72d7:18678
+workLoop @ chunk-7SSXMLWA.js?v=020a72d7:197
+flushWork @ chunk-7SSXMLWA.js?v=020a72d7:176
+performWorkUntilDeadline @ chunk-7SSXMLWA.js?v=020a72d7:384Пояснение к ошибке
+queryClient.ts:82 
+            
+            
+           GET https://1fcf736a-a4f1-4465-b1af-350c2430903b-00-9md6sgyg5nj2.worf.replit.dev/api/auth/current-user 401 (Unauthorized)
+window.fetch @ Network.js:219
+(анонимная) @ queryClient.ts:82
+fetchFn @ @tanstack_react-query.js?v=020a72d7:840
+run @ @tanstack_react-query.js?v=020a72d7:494
+start @ @tanstack_react-query.js?v=020a72d7:536
+fetch @ @tanstack_react-query.js?v=020a72d7:926
+executeFetch_fn @ @tanstack_react-query.js?v=020a72d7:2211
+onSubscribe @ @tanstack_react-query.js?v=020a72d7:1898
+subscribe @ @tanstack_react-query.js?v=020a72d7:24
+(анонимная) @ @tanstack_react-query.js?v=020a72d7:3022
+subscribeToStore @ chunk-7SSXMLWA.js?v=020a72d7:11984
+commitHookEffectListMount @ chunk-7SSXMLWA.js?v=020a72d7:16915
+commitPassiveMountOnFiber @ chunk-7SSXMLWA.js?v=020a72d7:18156
+commitPassiveMountEffects_complete @ chunk-7SSXMLWA.js?v=020a72d7:18129
+commitPassiveMountEffects_begin @ chunk-7SSXMLWA.js?v=020a72d7:18119
+commitPassiveMountEffects @ chunk-7SSXMLWA.js?v=020a72d7:18109
+flushPassiveEffectsImpl @ chunk-7SSXMLWA.js?v=020a72d7:19490
+flushPassiveEffects @ chunk-7SSXMLWA.js?v=020a72d7:19447
+performSyncWorkOnRoot @ chunk-7SSXMLWA.js?v=020a72d7:18868
+flushSyncCallbacks @ chunk-7SSXMLWA.js?v=020a72d7:9119
+commitRootImpl @ chunk-7SSXMLWA.js?v=020a72d7:19432
+commitRoot @ chunk-7SSXMLWA.js?v=020a72d7:19277
+finishConcurrentRender @ chunk-7SSXMLWA.js?v=020a72d7:18805
+performConcurrentWorkOnRoot @ chunk-7SSXMLWA.js?v=020a72d7:18718
+workLoop @ chunk-7SSXMLWA.js?v=020a72d7:197
+flushWork @ chunk-7SSXMLWA.js?v=020a72d7:176
+performWorkUntilDeadline @ chunk-7SSXMLWA.js?v=020a72d7:384Пояснение к ошибке
+Console.js:61 Query error for /api/auth/current-user: Error: Не авторизован
+    at throwIfResNotOk (queryClient.ts:21:11)
+    at async queryClient.ts:90:7
