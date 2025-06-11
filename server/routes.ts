@@ -1,8 +1,8 @@
 import type { Express, Request, Response } from "express";
 import { createServer, type Server } from "http";
-import { storage } from "./storage";
-import { insertBookingSchema, insertMessageSchema, insertUserSchema } from "./schema";
-import { generateBookingNumber } from "@shared/utils";
+import { storage } from "./storage.js";
+import { insertBookingSchema, insertMessageSchema, insertUserSchema } from "./schema.js";
+import { generateBookingNumber } from "./utils.js";
 import { z } from "zod";
 import { WebSocketServer } from "ws";
 import session from "express-session";

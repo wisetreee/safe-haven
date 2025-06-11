@@ -1,5 +1,5 @@
-import { storage } from "./storage";
-import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "../client/src/lib/constants";
+import { storage } from "./storage.js";
+import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "./constants.js";
 
 /**
  * Script to load sample data into the database
