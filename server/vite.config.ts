@@ -1,30 +1,30 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
 import path from "path";
-import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
 
 export default defineConfig({
-  plugins: [
-    react(),
-    runtimeErrorOverlay(),
-    ...(process.env.NODE_ENV !== "production" &&
-    process.env.REPL_ID !== undefined
-      ? [
-          await import("@replit/vite-plugin-cartographer").then((m) =>
-            m.cartographer(),
-          ),
-        ]
-      : []),
-  ],
-  resolve: {
-    alias: {
-      "@": path.resolve(import.meta.dirname, "client", "src"),
-      "@shared": path.resolve(import.meta.dirname, "shared"),
+  // Указываем корень для сервера (не клиента!)
+  root: path.resolve(import.meta.dirname, "server"),
+
+  // Настройки сборки сервера
+  build: {
+    outDir: path.resolve(import.meta.dirname, "dist/server"),
+    emptyOutDir: true,
+    // Целевой формат (CommonJS для Node.js)
+    target: "node16",
+    // Отключаем разбиение на чанки (серверу это не нужно)
+    rollupOptions: {
+      output: {
+        format: "cjs",
+        inlineDynamicImports: true,
+      },
     },
   },
-  root: path.resolve(import.meta.dirname, "client"),
-  build: {
-    outDir: path.resolve(import.meta.dirname, "dist/public"),
-    emptyOutDir: true,
+
+  // Алиасы для серверных путей (если нужны)
+  resolve: {
+    alias: {
+      "@server": path.resolve(import.meta.dirname, "server"),
+      "@shared": path.resolve(import.meta.dirname, "shared"),
+    },
   },
 });
