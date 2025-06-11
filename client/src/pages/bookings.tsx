@@ -59,8 +59,6 @@ export default function Bookings() {
       
       <h1 className="text-2xl font-medium my-4">Мои бронирования</h1>
       
-      <TestBookingButton />
-      
       <div className="space-y-4">
         {bookings && bookings.length > 0 ? (
           bookings.map((booking) => (

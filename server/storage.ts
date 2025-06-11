@@ -4,7 +4,7 @@ import {
   bookings, Booking, InsertBooking,
   messages, Message, InsertMessage
 } from "@shared/schema";
-import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "../client/src/lib/constants";
+import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "./constants.js";
 import { db } from "./db";
 import { eq, and } from "drizzle-orm";
 
