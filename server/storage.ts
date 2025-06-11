@@ -3,7 +3,7 @@ import {
   housings, Housing, InsertHousing,
   bookings, Booking, InsertBooking,
   messages, Message, InsertMessage
-} from "@shared/schema";
+} from "./schema.js";
 import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "./constants.js";
 import { db } from "./db";
 import { eq, and } from "drizzle-orm";
