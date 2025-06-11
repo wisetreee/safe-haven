@@ -20,11 +20,4 @@ export default defineConfig({
     },
   },
 
-  // Алиасы для серверных путей (если нужны)
-  resolve: {
-    alias: {
-      "@server": path.resolve(import.meta.dirname, "server"),
-      "@shared": path.resolve(import.meta.dirname, "shared"),
-    },
-  },
 });
