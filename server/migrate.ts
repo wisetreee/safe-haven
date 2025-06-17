@@ -1,12 +1,14 @@
 import { migrate } from "drizzle-orm/postgres-js/migrator";
-import { db } from "./db";
+import { db } from "./db.js";
 import path from "path";
 import { fileURLToPath } from "url";
 
-// Добавьте эту функцию перед запуском сервера
 export async function runMigrations() {
   try {
     const __dirname = path.dirname(fileURLToPath(import.meta.url));
+    
+    console.log("Starting migrations..."); 
+    console.log("Migrations directory:", path.join(__dirname, "migrations"));
     
     await migrate(db, {
       migrationsFolder: path.join(__dirname, "migrations")
@@ -15,6 +17,6 @@ export async function runMigrations() {
     console.log("Migrations applied successfully");
   } catch (err) {
     console.error("Migration failed:", err);
-    process.exit(1); // Завершаем процесс при ошибке миграции
+    throw err; // Важно пробросить ошибку дальше
   }
 }
