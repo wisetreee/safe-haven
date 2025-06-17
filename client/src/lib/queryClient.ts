@@ -56,7 +56,7 @@ export const getQueryFn: <T>(options: {
 }) => QueryFunction<T> =
   ({ on401: unauthorizedBehavior }) =>
   async ({ queryKey }) => {
-    const path = queryKey[0] as string;
+    const path = import.meta.env.VITE_API_URL + queryKey[0] as string;
     
     try {
       const res = await fetch(path, {
