@@ -17,6 +17,6 @@ export async function runMigrations() {
     console.log("Migrations applied successfully");
   } catch (err) {
     console.error("Migration failed:", err);
-    throw err; // Важно пробросить ошибку дальше
+    throw err; 
   }
 }

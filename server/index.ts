@@ -3,6 +3,7 @@ import { registerRoutes } from "./routes.js";
 import { log } from "./vite";
 import { createServer } from "http";
 import cors from "cors";
+import { runMigrations } from "migrate.js";
 
 // In development, we'll serve the client by default for backward compatibility
 // unless explicitly set to false
@@ -51,7 +52,8 @@ app.use((req, res, next) => {
 });
 
 (async () => {
-  const httpServer = await registerRoutes(app);
+  await runMigrations();
+  await registerRoutes(app);
 
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
     const status = err.status || err.statusCode || 500;
