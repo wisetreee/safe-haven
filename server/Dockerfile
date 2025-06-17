@@ -1,20 +1,18 @@
-FROM node:18-alpine
+
+FROM node:18-slim
 
 WORKDIR /app
 
-# Copy package files
-COPY package.json .
-COPY tsconfig.json .
+COPY package.json package-lock.json ./
 
-# Install dependencies
-RUN npm install && chmod +x ./node_modules/.bin/esbuild
+RUN npm install
 
-# Copy source code
+RUN chmod +x node_modules/.bin/esbuild
+
 COPY . .
 
-# Build the application
 RUN npm run build
 
 EXPOSE 5000
 
-CMD ["npm", "start"]
+CMD ["node", "dist/index.js"]
