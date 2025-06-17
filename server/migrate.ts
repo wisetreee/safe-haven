@@ -4,7 +4,7 @@ import path from "path";
 
 export async function runMigrations() {
   try {
-    const migrationsPath = path.join(process.cwd(), "migrations");
+    const migrationsPath = path.join(process.cwd(), "./migrations");
     
     console.log("Applying migrations from:", migrationsPath);
     await migrate(db, { migrationsFolder: migrationsPath });
