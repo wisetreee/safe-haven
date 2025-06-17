@@ -1,4 +1,4 @@
-import { Pool } from "pg"; // ⚠️ Используем pg вместо @neondatabase/serverless
+import { Pool } from "pg";
 import { drizzle } from "drizzle-orm/node-postgres";
 import * as schema from "./schema.js";
 
@@ -8,8 +8,8 @@ if (!process.env.DATABASE_URL) {
 
 export const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
-  ssl: { rejectUnauthorized: false }, // Нужно для Render.com
-  connectionTimeoutMillis: 5000, // Таймаут 5 секунд
+  ssl: { rejectUnauthorized: false }, 
+  connectionTimeoutMillis: 5000, 
 });
 
-export const db = drizzle(pool, { schema });
+export const db = drizzle(pool, schema);
