@@ -2,6 +2,7 @@ import express, { type Request, Response, NextFunction } from "express";
 import { registerRoutes } from "./routes.js";
 import { createServer } from "http";
 import cors from "cors";
+import { runMigrations } from "migrate.js";
 
 const app = express();
 const server = createServer(app);
@@ -46,6 +47,7 @@ app.use((req, res, next) => {
 });
 
 (async () => {
+  await runMigrations();
   const httpServer = await registerRoutes(app);
 
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
