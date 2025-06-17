@@ -4,6 +4,7 @@ import { log } from "./vite";
 import { createServer } from "http";
 import cors from "cors";
 import { runMigrations } from "migrate.js";
+import { loadSampleData } from "loadSampleData.js";
 
 // In development, we'll serve the client by default for backward compatibility
 // unless explicitly set to false
@@ -53,6 +54,7 @@ app.use((req, res, next) => {
 
 (async () => {
   await runMigrations();
+  await loadSampleData();
   await registerRoutes(app);
 
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {

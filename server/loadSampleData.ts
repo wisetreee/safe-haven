@@ -4,7 +4,7 @@ import { SAMPLE_HOUSINGS, SAMPLE_BOOKINGS } from "./constants.js";
 /**
  * Script to load sample data into the database
  */
-async function loadSampleData() {
+export async function loadSampleData() {
   console.log("Loading sample data into the database...");
   
   try {
@@ -101,6 +101,3 @@ async function loadSampleData() {
     console.error("Error loading sample data:", error);
   }
 }
-
-// Run the function
-loadSampleData();
