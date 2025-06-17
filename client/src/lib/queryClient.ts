@@ -31,7 +31,7 @@ export async function apiRequest<T = any>(
 ): Promise<T> {
   try {
     // Use relative URLs for API calls in same-origin setup
-    const res = await fetch(url, {
+    const res = await fetch(import.meta.env.VITE_API_URL + url, {
       method,
       headers: data ? { "Content-Type": "application/json" } : {},
       body: data ? JSON.stringify(data) : undefined,
