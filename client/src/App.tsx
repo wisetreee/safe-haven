@@ -35,6 +35,7 @@ function Router() {
 }
 
 function App() {
+  console.log(import.meta.env);
   return (
     <TooltipProvider>
       <div className="min-h-screen flex flex-col bg-background">
