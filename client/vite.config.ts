@@ -7,8 +7,8 @@ export default defineConfig({
   plugins: [
     react(),
     runtimeErrorOverlay(),
-    ...(import.meta.env.NODE_ENV !== "production" &&
-      import.meta.env.REPL_ID !== undefined
+    ...(process.env.NODE_ENV !== "production" &&
+      process.env.env.REPL_ID !== undefined
       ? [
           await import("@replit/vite-plugin-cartographer").then((m) =>
             m.cartographer(),
@@ -28,7 +28,7 @@ export default defineConfig({
     cors: true,
     proxy: {
       '/api': {
-        target: import.meta.env.VITE_API_URL || 'http://localhost:5000',
+        target: process.env.VITE_API_URL || 'http://localhost:5000',
         changeOrigin: true,
         secure: false,
       }
